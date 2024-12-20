@@ -114,7 +114,7 @@ sortedSlugging = reverse(sortedSlugging)
 sortedName = sort(playerStats, by=x -> (x[2], x[1]))
 
 @printf("\nBASEBALL STATS REPORT --- %d PLAYERS FOUND IN FILE\n", playerCount)
-println("\NREPORT ORDERED BY SLUGGING %\n\n")
+println("\nREPORT ORDERED BY SLUGGING %\n\n")
 printPlayers(sortedSlugging)
 println("\n\nREPORT ORDERED BY LAST NAME\n\n")
 printPlayers(sortedName)
