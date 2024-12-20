@@ -1,0 +1,14 @@
+Aaron Judge 704 636 180 27 3 47 117 5
+Shohei Ohtani 731 636 197 34 6 55 84 10
+Matt McLain 709 636 190 26 4 20 63 6
+Juan Soto 713 575 151 32 0 37 135 7
+Corey Seager 564 485 161 42 2 33 47 6
+Mookie Betts 701 603 177 33 2 35 98 12
+Matt Chapman 615 531 145 32 4 29 50 6
+Matt Olson 674 601 167 31 1 54 89 9
+Austin Riley 661 596 168 32 1 37 66 8
+Marcus Semien 718 650 165 39 2 29 61 3
+Bryce Harper 615 543 144 28 2 23 84 9
+Jose Ramirez 685 610 165 33 5 28 70 4
+Trea Turner 625 564 154 26 4 26 48 6
+Bo Bichette 623 572 166 30 1 20 39 5
